@@ -1,0 +1,23 @@
+package-lock.json
+node_modules/
+**/*.log
+*.log
+dist/
+.DS_Store
+.esbuild
+coverage/
+
+.vscode/launch.json
+.serverless
+.env
+
+# Dependency directories
+node_modules
+jspm_packages
+typings
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
